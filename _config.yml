@@ -35,8 +35,8 @@ nav:
   # - GALLERY: "https://ngamchidep.fun/gallery/"  
   # - JOURNAL: "https://ngamchidep.fun/journal/"
   # - ABOUT: "https://ngamchidep.fun/about/"
-  - INSTAGRAM: "https://ngamchidep.fun/instagram/"
-  - FACEBOOK: "https://ngamchidep.fun/facebook/"
+  - INSTAGRAM: "/instagram/"
+  - FACEBOOK: "/facebook/"
 
 # All translation keys
 translations:
